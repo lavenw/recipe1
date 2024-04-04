@@ -1,5 +1,5 @@
 ### This is a LOCAL change :)
-RECIPES: EVERYDAY COOKING# recipe1
+# RECIPES: EVERYDAY COOKING# recipe1
 If you are looking for something different to grill this spring, how about quail? line 2 changed remotely
 You can keep things simple and pair them with everyday sides or dress them up for company by serving them with couscous and shredded Brussels sprouts. Wild rice pairs nicely with them as well.
 Lavender Wen
