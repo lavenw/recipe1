@@ -6,4 +6,4 @@
 *original source: https://www.allrecipes.com/recipe/281039/easy-grilled-quail/*
 last line changed locally
 ### This is a REMOTE change :O
-![](/c/Users/wenky/DST/student_a3/recipe1/recipe.png "Yummy Quail")
+![](https://www.allrecipes.com/thmb/maY9m7DFsyHT2SLBFCjqwSU-erk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8365896-a71ce08cd75543a884c8ae390769904a.jpg "Yummy Quail")
