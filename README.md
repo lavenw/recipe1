@@ -6,3 +6,4 @@
 *original source: https://www.allrecipes.com/recipe/281039/easy-grilled-quail/*
 last line changed locally
 ### This is a REMOTE change :O
+![](DST/student_a3/recipe1/recipe.png "Yummy Quail")
